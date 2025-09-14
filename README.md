@@ -1,4 +1,7 @@
-https://www.youtube.com/watch?v=mQFkFye8u14
+Youtube Link: https://www.youtube.com/watch?v=mQFkFye8u14
+
+<img width="920" height="469" alt="image" src="https://github.com/user-attachments/assets/c38bb6b5-d1d3-43dc-b40e-380648190f3f" />
+
 
 # WebProject
 This project presents the development of an automated system for monitoring  employee performance and managing feedback within a Business Process  Outsourcing (BPO) company, aimed at improving efficiency, transparency, and  employee engagement. 
