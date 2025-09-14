@@ -1,11 +1,20 @@
-# Employee Performance Management System
+# Final Project Paper - Employee Performance Management System
 
 Youtube Link: https://www.youtube.com/watch?v=mQFkFye8u14
 
+# Homepage
 <img width="920" height="469" alt="image" src="https://github.com/user-attachments/assets/c38bb6b5-d1d3-43dc-b40e-380648190f3f" />
 
+# Admin Dashboard
+<img width="922" height="471" alt="image" src="https://github.com/user-attachments/assets/698749fb-1d65-4bb0-b6cb-6c9bdee1b049" />
 
-# WebProject
+# Evaluator Dashboard
+<img width="911" height="467" alt="image" src="https://github.com/user-attachments/assets/9b936778-acc4-4ba4-bc98-9ffa44d05b78" />
+
+# Employee Dashboard
+<img width="919" height="466" alt="image" src="https://github.com/user-attachments/assets/083470bc-67c9-415f-b7cd-eddfdda00f91" />
+
+# WebProject - Employee Performance Management System
 This project presents the development of an automated system for monitoring  employee performance and managing feedback within a Business Process  Outsourcing (BPO) company, aimed at improving efficiency, transparency, and  employee engagement. 
 
 #  For Users Login - : http://localhost/epes/login.php
